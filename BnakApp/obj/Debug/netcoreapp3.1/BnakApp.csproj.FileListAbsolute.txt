@@ -1,0 +1,11 @@
+D:\school projects C#\BnakApp\BnakApp\bin\Debug\netcoreapp3.1\BnakApp.exe
+D:\school projects C#\BnakApp\BnakApp\bin\Debug\netcoreapp3.1\BnakApp.deps.json
+D:\school projects C#\BnakApp\BnakApp\bin\Debug\netcoreapp3.1\BnakApp.runtimeconfig.json
+D:\school projects C#\BnakApp\BnakApp\bin\Debug\netcoreapp3.1\BnakApp.runtimeconfig.dev.json
+D:\school projects C#\BnakApp\BnakApp\bin\Debug\netcoreapp3.1\BnakApp.dll
+D:\school projects C#\BnakApp\BnakApp\bin\Debug\netcoreapp3.1\BnakApp.pdb
+D:\school projects C#\BnakApp\BnakApp\obj\Debug\netcoreapp3.1\BnakApp.csprojAssemblyReference.cache
+D:\school projects C#\BnakApp\BnakApp\obj\Debug\netcoreapp3.1\BnakApp.AssemblyInfoInputs.cache
+D:\school projects C#\BnakApp\BnakApp\obj\Debug\netcoreapp3.1\BnakApp.AssemblyInfo.cs
+D:\school projects C#\BnakApp\BnakApp\obj\Debug\netcoreapp3.1\BnakApp.dll
+D:\school projects C#\BnakApp\BnakApp\obj\Debug\netcoreapp3.1\BnakApp.pdb
