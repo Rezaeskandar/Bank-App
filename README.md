@@ -69,20 +69,19 @@ To get started with the project, you will need to clone the repository to your l
 - In building this bank system project, I made several mistake that made the structure and functionality of the system was not correct! but this versin is the final one.
 - This code structure is used to create a simple bank system, where User objects are created with a username, password and an array of Account objects. Each Account object has a name and a balance. With this structure, it is possible to create multiple User objects with different usernames, passwords and accounts, which can be used to represent different customers in a banking system. The use of properties with public getters and setters allows for easy access of the properties from outside the class. The nested Account class represents the accounts that a user has.
 
-This way of creating a bank system using User and Account classes is a good approach for several reasons:
+
+
+Why this way of creating a bank system using User and Account classes is a good ?
 ___
 
-Object-oriented design: Using classes to represent real-world entities such as users and accounts allows for a clear and organized structure of the system. It makes it easy to understand the different components of the system and how they relate to each other.
+1- Object-oriented design: Using classes to represent users and accounts allows for a clear and organized structure of the system. It makes it easy to understand the different components of the system and how they relate to each other.
 
-Reusability: The User and Account classes can be reused to create multiple instances of the objects, allowing for the representation of multiple users and accounts in the system.
+2- Reusability: The User and Account classes can be reused and create multiple object of that, allowing for the representation of multiple users and accounts in the system.
 
-Modularity: The use of properties with public getters and setters makes it easy to access and modify the properties of the objects, allowing for flexibility in the system. It also makes it easy to add or remove properties in the future without affecting the rest of the system.
+3- The use of properties with public getters and setters makes it easy to access the properties of the objects. It also makes it easy to add or remove properties in the future without affecting the rest of the system.
 
-Nested structure: The nested Account class within the User class is logical and easy to understand, it represents the accounts that a user has.
+4- The nested Account class within the User class is logical and easy to understand, it represents the accounts that a user has.
 
-Easy to implement: The structure uses basic concepts of Object-oriented programming, which makes it easy to implement, understand and maintain.
+5-The structure uses basic concepts of Object-oriented programming, which makes it easy to implement and understand.
 
-It's worth noting that the system should be reviewed and improved in terms of security to make it more robust and production ready.
-
-Overall, this approach allows for a clear and organized system that is easy to understand, implement, and maintain, making it a good option for creating a simple bank system.
 
