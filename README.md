@@ -2,6 +2,29 @@
 > *Welcome to my simple banking application! This banking application is a simple project in C#. It is done using Array of Objects in C#. It is a simple project made using console application of C#. This means, no graphics component are added. The main target user of this project are the C# beginners who want to make the project in C# and especially those who are interested in lerning Arrays of object and they way they uses. This project is a complete package to learning basic c#.*
 ## The codebase is structured:
 
+### ```UserLogin and Acounts:```
+```sh
+ class User
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+        public Account[] Accounts { get; set; }
+    }
+```
+
+### ```Acounts Name And Balances:```
+```sh
+ class User
+    
+         class Account
+    {
+        public string Name { get; set; }
+        public double Balance { get; set; }
+    }
+    
+```
+
+### ```Creating mutiplel users:```
 ```sh
  // Creat array of Users object
             User[] users = new User[]
