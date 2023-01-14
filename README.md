@@ -51,8 +51,15 @@
                     }
                 },
 ```
-##Features:
+## Features:
 
 - Deposit funds into your accounts
 - Withdraw funds from your accounts
 - Check your accounts balances
+
+## Tech stack:
+- C#
+- Using Visual Stadio  
+
+## Getting Started
+To get started with the project, you will need to clone the repository to your local machine. Once the repository is cloned, you can navigate to the project directory and run the project using your preferred visual stadio environment.
