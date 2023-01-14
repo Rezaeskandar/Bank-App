@@ -98,7 +98,7 @@ Is thier any other ways to do this ?
 ___
 
 For sure thier are meny better ways do implement this project thas looks better and more profecinall. But as much i know today this way worked for this small project well. It maby whould good to use Jagged Array as well in this project but it would make it more complex to aandrestand.
-![bank_flowchart]()
+
 
 ## This is the road map, the system 
-<img src="https://user-images.githubusercontent.com/113901667/212472744-5c6d82b7-1e7a-4a48-a478-4225dce93ff5.png" width="200" height="100">
+<img src="https://user-images.githubusercontent.com/113901667/212472744-5c6d82b7-1e7a-4a48-a478-4225dce93ff5.png" width="600" height="900">
