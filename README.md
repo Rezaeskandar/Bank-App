@@ -65,14 +65,24 @@
 To get started with the project, you will need to clone the repository to your local machine. Once the repository is cloned, you can navigate to the project directory and run the project using your preferred visual stadio environment.
 
 
-Reflection
-In building this bank system project, I made several mistake that made the structure and functionality of the system was not correct! but this versin is the final one.
+## Reflection
+- In building this bank system project, I made several mistake that made the structure and functionality of the system was not correct! but this versin is the final one.
+- This code structure is used to create a simple bank system, where User objects are created with a username, password and an array of Account objects. Each Account object has a name and a balance. With this structure, it is possible to create multiple User objects with different usernames, passwords and accounts, which can be used to represent different customers in a banking system. The use of properties with public getters and setters allows for easy access of the properties from outside the class. The nested Account class represents the accounts that a user has.
 
+This way of creating a bank system using User and Account classes is a good approach for several reasons:
+___
 
-Firstly, I chosed to create tre separated classes. I considered if I do this my code lookes more cleane and good structured. This is more for people who will read the code and undrestand it easyer. I have na Account class and a User class. Account class have properties 'Accounts name' and 'Balances'. And  Users class have  'username' , 'password', and array of users 'Account' properties.  
+Object-oriented design: Using classes to represent real-world entities such as users and accounts allows for a clear and organized structure of the system. It makes it easy to understand the different components of the system and how they relate to each other.
 
-Thirdly, we chose to build the system using an object-oriented approach. We believe that this approach allows for a more organized and maintainable codebase and also helped to model the real-world bank system.
+Reusability: The User and Account classes can be reused to create multiple instances of the objects, allowing for the representation of multiple users and accounts in the system.
 
-While we believe that the choices we made in building this project were appropriate, there are always opportunities for improvement. For example, in the future, we may consider using a distributed system for better performance and scalability. Additionally, we may investigate the use of other technologies such as blockchain for added security and transparency in financial transactions.
+Modularity: The use of properties with public getters and setters makes it easy to access and modify the properties of the objects, allowing for flexibility in the system. It also makes it easy to add or remove properties in the future without affecting the rest of the system.
 
-Overall, we are confident that the design choices we made in this project have resulted in a robust and functional bank system that can be easily maintained and scaled in the future.
+Nested structure: The nested Account class within the User class is logical and easy to understand, it represents the accounts that a user has.
+
+Easy to implement: The structure uses basic concepts of Object-oriented programming, which makes it easy to implement, understand and maintain.
+
+It's worth noting that the system should be reviewed and improved in terms of security to make it more robust and production ready.
+
+Overall, this approach allows for a clear and organized system that is easy to understand, implement, and maintain, making it a good option for creating a simple bank system.
+
