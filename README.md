@@ -101,4 +101,4 @@ For sure thier are meny better ways do implement this project thas looks better 
 
 
 ## This is the road map of the system 
-<img src="https://user-images.githubusercontent.com/113901667/212472744-5c6d82b7-1e7a-4a48-a478-4225dce93ff5.png" width="700" height="900">
+<img src="https://user-images.githubusercontent.com/113901667/212472744-5c6d82b7-1e7a-4a48-a478-4225dce93ff5.png" width="800" height="900">
