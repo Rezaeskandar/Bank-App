@@ -1,5 +1,5 @@
 ## Bank-App
-> *Welcome to my simple banking application! This banking application is a simple project in C#. It is done using Array of Objects in C#. It is a simple project made using console application of C#. This means, no graphics component are added. The main target user of this project are the C# beginners who want to make the project in C# and especially those who are interested in lerning Arrays of object and they way they uses. This project is a complete package to learning basic c#.*
+> *Welcome to my simple banking application! This banking application is a simple project in C#. It is done using Array of Objects in. It is a simple project made using console application of C#. This means, no graphics component are added. The main target user of this project are the C# beginners who want to make the project in C# and especially those who are interested in lerning Arrays of object and they way they uses. This project is a complete package to learning basic c#.*
 ## The codebase is structured:
 
 ### ```UserLogin and Acounts:```
