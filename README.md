@@ -85,7 +85,7 @@ ___
 5-The structure uses basic concepts of Object-oriented programming, which makes it easy to implement and understand.
 
 
-___
+____
 Another way to represent users and accounts in a system could be to use a text files or a database to store the information. This may not be as organized or easy to understand as using classes. For example, instead of having a User class with properties like username, password and an array of Account objects, the information for each user would be stored in a single text file or database record with multiple fields for username, password, account name, and balance. This would make it more difficult to understand the relationships between different users and their accounts, and would also make it more difficult to add new properties or functionality to the system in the future.
 
 using class allows for the implementation of Object oriented programming like inheritance, encapsulation, and polymorphism, that can make the system more secuire. 
